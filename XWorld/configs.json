@@ -1,0 +1,13 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": "bT10Z19pbnZpdGUmYz04Nzg1ODA4",
+  "giftCode": "meomundep"
+}
